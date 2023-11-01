@@ -6,4 +6,4 @@ In the dynamic and highly competitive landscape of English Premier League (EPL) 
 
 Hypothesis 1Recent form has no impact on specific player statistics, such as goals scored, assists, pass completion rate, or defensive actions.
 
-Hypothesis2 Alternative Hypothesis (H1): Recent form has a significant impact on specific player statistics in EPL games.
+
