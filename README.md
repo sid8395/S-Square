@@ -14,4 +14,7 @@ The problem at hand is to analyze the relationship between passing accuracy and 
  Hypothesis 1. How does passing accuracy correlate with the average assists made by players?
  hypothesis 2 How do the top 5 leagues differ in terms of passing accuracy and its impact on assist averages?
 
+We will examine data from the top 5 football leagues and assess whether there are variations in passing accuracy and its impact on assist averages among these leagues. This will help identify league-specific trends and patterns.
+ 
+
  We tried to understand how these two factors will be crucial for a sports company driven toward making data-driven decisions 
