@@ -1,12 +1,17 @@
 
 S SQUARE
 
-Business Case In this business case, we are addressing the need for data-driven decision-making in professional soccer. Specifically, we want to understand if recent form, defined as a player's performance in the last few games, has any impact on specific player statistics such as goals scored, assists, pass completion rate, and defensive actions. This analysis will help teams make more informed decisions regarding player selection, tactical approaches, and strategies to maximize their chances of success.
+Business Case:
+
+In the world of professional football (soccer), understanding player performance is crucial for team managers, coaches, and scouts. Passing accuracy and assist statistics are key performance indicators that can greatly impact team success. A deeper analysis of these metrics can provide valuable insights into player performance and help clubs make data-driven decisions in areas such as recruitment and tactical planning.
 
 
 Problem Statement:
+The problem at hand is to analyze the relationship between passing accuracy and the average assists made by football players. We want to investigate whether there is a correlation between a player's ability to make accurate passes and their effectiveness in creating goal-scoring opportunities for their teammates. Additionally, we aim to compare the passing accuracy and its impact on assist averages across the top 5 football leagues in the world.
 
-In the context of professional soccer, we aim to investigate whether a player's recent form has a significant impact on specific player statistics. To achieve this, we will focus on player performance metrics such as goals scored, assists, pass completion rate, and defensive actions. We want to determine if there is a statistically significant relationship between a player's recent form and these key performance indicators.
 
 
- Hypothesis Recent form has no impact on specific player statistics, such as goals scored, assists, pass completion rate, or defensive actions.
+ Hypothesis 1. How does passing accuracy correlate with the average assists made by players?
+ hypothesis 2 How do the top 5 leagues differ in terms of passing accuracy and its impact on assist averages?
+
+ We tried to understand how these two factors will be crucial for a sports company driven toward making data-driven decisions 
